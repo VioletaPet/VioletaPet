@@ -25,4 +25,12 @@ I am an aspiring Full Stack Developer with former experience in project manageme
       <img src="https://github.com/user-attachments/assets/5b5cac7c-4178-4f04-a34a-854b91b7f2e9" alt="Git Logo" width="40" height="40">
 </div>
 
+## Hobbies 
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://github.com/user-attachments/assets/a33eb146-3d48-4dc4-bdf8-d5ed7e2d5545" alt="Woman doing Yoga" width="70" height="70">
+    <img src="https://github.com/user-attachments/assets/4dfb7949-103f-4f83-b5d2-82519b497008" alt="Bodybuilding Pineapple" width="70" height="70">
+    <img src="https://github.com/user-attachments/assets/13ca938b-e679-4efb-b70e-0f8eebd1387c" alt="Pile of Books" width="70" height="70">
+    <img src="https://github.com/user-attachments/assets/a6123bd1-e2d8-432b-80b5-22207dfdb461" alt="Bear Hiking" width="70" height="70">
+    <img src="https://github.com/user-attachments/assets/a49862d6-2a8a-44a5-86e6-2dbb4bd6043a" alt="Yarn and Crochet Needle" width="70" height="70">
+</div>
 
