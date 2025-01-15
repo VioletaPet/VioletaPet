@@ -6,8 +6,7 @@
 I am an aspiring Full Stack Developer with former experience in project management and office leading looking for work. I have recently graduated from the Le Wagon Bootcamp in which I have learned web development and worked on projects using Ruby on Rails, JavaScript and more. 
 
 - 🌍 I am based in Germany and open to relocate
-- 📝 Currently I am deepening my knowledge about web dev
-- 🧠 Next I will learn TypeScript
+- 📝 Currently working on an idea for an application!
 - 🍫 Fun fact: I am obsessed with chocolate
 
 ## Skills 💪
